@@ -44,8 +44,6 @@
 
 <br />
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=lfernandogcruz&count_private=true&show_icons=true&theme=graywhite&icon_color=268bd2&title_color=268bd2" alt="luis-stats" />
-
 <br id="pt-br" />
 
 Olá!
@@ -65,6 +63,16 @@ Obrigado pela visita e se estiver pela **Baixada Santista**, me chame pra um pap
 **[⬆ Voltar ao topo](#top)**
 
 <br />
+
+<p>
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=lfernandogcruz&count_private=true&show_icons=true&theme=graywhite&icon_color=268bd2&title_color=268bd2" alt="luis-cruz-stats" />
+</p>
+<p>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lfernandogcruz&layout=compact&theme=graywhite&title_color=268bd2" alt="luis-cruz-used-langs" />
+</p>
+
+<br />
+
 <br id="en-en" />
 
 Hello there!
@@ -81,3 +89,6 @@ Feel free to browse my **[Repositories](https://github.com/lfernandogcruz?tab=re
 Thanks for visiting and whenever around **Santos** area, call me for a chat about life, the universe and everything, accompanied by a **Beer** with your feet in the sand! 😁
 
 **[⬆ Back to the top](#top)**
+
+<br />
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lfernandogcruz" alt="visitors-count" /> </p>
