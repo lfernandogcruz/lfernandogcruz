@@ -44,7 +44,7 @@
 
 <br />
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=lfernandogcruz&count_private=true&show_icons=true&theme=graywhite&icon_color=268bd2&title_color=268bd2" alt="luis-stats" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=lfernandogcruz&count_private=true&show_icons=true&theme=graywhite&icon_color=268bd2&title_color=268bd2" alt="luis-stats" />
 
 <br id="pt-br" />
 
