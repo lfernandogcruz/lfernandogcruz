@@ -11,9 +11,7 @@
 <a href="#pt-br">
   🇧🇷 Português 
 </a>
-<p>
- | 
-</p>
+| 
 <a href="#en-en">
   🇬🇧 English 
 </a>
@@ -23,7 +21,7 @@
 
 <p id="pt-br">
 Olá!
-Meu nome é **Luis Fernando**, mas pode ficar à vontade pra me chamar de **LF** ou apenas de **Luis**, se preferir 😃
+Meu nome é <strong>Luis Fernando</strong>, mas pode ficar à vontade pra me chamar de <strong>LF</strong> ou apenas de <strong>Luis</strong>, se preferir 😃
 </p>
 
 **Linguagens e ferramentas:**  
