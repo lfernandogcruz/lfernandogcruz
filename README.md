@@ -68,10 +68,8 @@ Obrigado pela visita e se estiver pela **Baixada Santista**, me chame pra um pap
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=lfernandogcruz&count_private=true&show_icons=true&theme=graywhite&icon_color=268bd2&title_color=268bd2" alt="luis-cruz-stats" />
 </p>
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats) -->
-
 <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lfernandogcruz&layout=compact" alt="luis-cruz-used-langs" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lfernandogcruz&layout=compact&theme=graywhite&title_color=268bd2" alt="luis-cruz-used-langs" />
 </p>
 
 <br />
