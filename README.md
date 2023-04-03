@@ -46,7 +46,7 @@
 
 <br id="pt-br" />
 
-Olá!
+Olá, mundo! 
 Meu nome é **Luis Fernando**, mas pode me chamar de **LF** ou apenas de **Luis**, se preferir 😃
 
 Nasci em **Sorocaba**, cresci em **São Bernardo do Campo** e atualmente moro em **Santos**.
@@ -76,7 +76,7 @@ Obrigado pela visita e se estiver pela **Baixada Santista**, me chame pra um pap
 
 <br id="en-en" />
 
-Hello there!
+Hello world! 
 My name is **Luis Fernando**, but you can call me **LF** or just **Luis**, if you wish 😃
 
 I was born in **Sorocaba**, grew up in **São Bernardo do Campo** and currently living in **Santos**, **São Paulo** state in **Brazil**.
