@@ -1,3 +1,13 @@
+<a href="#pt-br">
+  🇧🇷 Português 
+</a>
+| 
+<a href="#en-en">
+  🇬🇧 English 
+</a>
+
+<br />
+
 <div id="top">
   <a href="https://github.com/lfernandogcruz" target="_blank">
     <img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="48px" height="48px">
@@ -8,16 +18,6 @@
 </div>
 
 <br />
-<br />
-
-<a href="#pt-br">
-  🇧🇷 Português 
-</a>
-| 
-<a href="#en-en">
-  🇬🇧 English 
-</a>
-
 <br />
 
 **Stacks:**  
@@ -43,6 +43,9 @@
 </p>
 
 <br />
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=lfernandogcruz&count_private=true&show_icons=true&theme=graywhite&icon_color=268bd2&title_color=268bd2" alt="luis-stats" />
+
 <br id="pt-br" />
 
 Olá!
