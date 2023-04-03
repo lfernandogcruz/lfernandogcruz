@@ -1,9 +1,11 @@
-<a href="https://github.com/lfernandogcruz" target="_blank">
-  <img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="48px" height="48px">
-</a> 
-<a href="https://www.linkedin.com/in/luisfgcruz/" target="_blank">
-  <img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
-</a>
+<div id="top">
+  <a href="https://github.com/lfernandogcruz" target="_blank">
+    <img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="48px" height="48px">
+  </a> 
+  <a href="https://www.linkedin.com/in/luisfgcruz/" target="_blank">
+    <img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
+  </a>
+</div>
 
 <br />
 <br />
@@ -17,14 +19,8 @@
 </a>
 
 <br />
-<br />
 
-<p id="pt-br">
-Olá!
-Meu nome é <strong>Luis Fernando</strong>, mas pode ficar à vontade pra me chamar de <strong>LF</strong> ou apenas de <strong>Luis</strong>, se preferir 😃
-</p>
-
-**Linguagens e ferramentas:**  
+**Stacks:**  
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
@@ -46,7 +42,39 @@ Meu nome é <strong>Luis Fernando</strong>, mas pode ficar à vontade pra me cha
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/heroku/heroku-plain.svg" alt="heroku" width="40" height="40" />
 </p>
 
-<p id="en-en">
+<br />
+<br id="pt-br" />
+
 Olá!
-Meu nome é **Luis Fernando**, mas pode ficar à vontade pra me chamar de **LF** ou apenas de **Luis**, se preferir 😃
-</p>
+Meu nome é **Luis Fernando**, mas pode me chamar de **LF** ou apenas de **Luis**, se preferir 😃
+
+Nasci em **Sorocaba**, cresci em **São Bernardo do Campo** e atualmente moro em **Santos**.
+
+Sou formado em **Publicidade e Propaganda** pela **UMESP**, mas tive minhas experiências profissionais focadas em **Atendimento ao Público**, especialmente **Vendas** e como **Garçom/Bartender** em bares e restaurantes.
+
+Atualmente estudo ferramentas de **Desenvolvimento** e estou em busca de uma oportunidade para colocar em prática o que aprendi.
+
+Fique à vontade para navegar pelos meus **[Repositórios](https://github.com/lfernandogcruz?tab=repositories/)** e, se quiser, dar sugestões e propor melhorias.
+
+Obrigado pela visita e se estiver pela **Baixada Santista**, me chame pra um papo sobre a vida, o universo e tudo mais acompanhando um **Choppinho** com o pé na areia! 😁
+
+
+**[⬆ Voltar ao topo](#top)**
+
+<br />
+<br id="en-en" />
+
+Hello there!
+My name is **Luis Fernando**, but you can call me **LF** or just **Luis**, if you wish 😃
+
+I was born in **Sorocaba**, grew up in **São Bernardo do Campo** and currently living in **Santos**, **São Paulo** state in **Brazil**.
+
+I graduated in **Advertising** by **UMESP**, but worked mostly with **Customer Services**, specially **Sales** and as a **Waiter/Bartender** in pubs and restaurants.
+
+Currently studying **Development** tools and looking for an opportunity to put into practice what I've learned.
+
+Feel free to browse my **[Repositories](https://github.com/lfernandogcruz?tab=repositories/)** and, if you want, give suggestions and propose improvements.
+
+Thanks for visiting and whenever around **Santos** area, call me for a chat about life, the universe and everything, accompanied by a **Beer** with your feet in the sand! 😁
+
+**[⬆ Back to the top](#top)**
