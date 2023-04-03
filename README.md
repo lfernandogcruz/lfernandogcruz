@@ -79,16 +79,16 @@ Thanks for visiting and whenever around **Santos** area, [reach me](#contact) fo
     <tbody>
       <tr>
         <td>
-          <a href="https://github.com/lfernandogcruz?tab=repositories&q=&type=public&language=javascript&sort=">
+          <a href="https://github.com/lfernandogcruz?tab=repositories&q=&type=public&language=javascript&sort=" target="_blank">
             <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript" />
           </a>
-          <a href="https://github.com/lfernandogcruz?tab=repositories&q=&type=public&language=typescript&sort=">
+          <a href="https://github.com/lfernandogcruz?tab=repositories&q=&type=public&language=typescript&sort=" target="_blank">
             <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" />
           </a>
-          <a href="https://github.com/lfernandogcruz?tab=repositories&q=&type=public&language=python&sort=">
+          <a href="https://github.com/lfernandogcruz?tab=repositories&q=&type=public&language=python&sort=" target="_blank">
             <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="python" />
           </a>
-          <a href="https://github.com/lfernandogcruz?tab=repositories&q=&type=public&language=&sort=">
+          <a href="https://github.com/lfernandogcruz?tab=repositories&q=&type=public&language=&sort=" target="_blank">
             <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="java" />
           </a>
         </td>
