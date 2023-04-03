@@ -14,13 +14,6 @@
 <a href="#contact">
   📩 Contact
 </a>
-
-<a href="https://github.com/lfernandogcruz" target="_blank">
-  <img src="https://cdn.iconscout.com/icon/free/png-256/github-108-438008.png" width="48px" height="48px">
-</a>
-<a href="https://www.linkedin.com/in/luisfgcruz/" target="_blank">
-  <img src="https://i.ibb.co/Kx2GSrT/linkedin.png" width="48px" height="48px">
-</a>
 <br id="pt-br" />
 
 Olá, mundo!<br />
@@ -32,7 +25,7 @@ Sou formado em **Publicidade e Propaganda** pela **UMESP**, mas tive minhas expe
 
 Atualmente estudo ferramentas de **Desenvolvimento** e estou em busca de uma oportunidade para colocar em prática o que aprendi.
 
-Fique à vontade para navegar pelos meus **[Repositórios](https://github.com/lfernandogcruz?tab=repositories/)** e, se quiser, dar sugestões e propor melhorias.
+Fique à vontade para navegar pelos meus **[Repositórios](https://github.com/lfernandogcruz?tab=repositories&q=&type=&language=&sort=)** e, se quiser, dar sugestões e propor melhorias.
 
 Obrigado pela visita e se estiver pela **Baixada Santista**, [me chame](#contact) pra um papo sobre a vida, o universo e tudo mais acompanhando um **Choppinho** com o pé na areia! 😁
 
@@ -63,7 +56,7 @@ I graduated in **Advertising** by **UMESP**, but worked mostly with **Customer S
 
 Currently studying **Development** tools and looking for an opportunity to put into practice what I've learned.
 
-Feel free to browse my **[Repositories](https://github.com/lfernandogcruz?tab=repositories/)** and, if you want, give suggestions and propose improvements.
+Feel free to browse my **[Repositories](https://github.com/lfernandogcruz?tab=repositories&q=&type=&language=&sort=)** and, if you want, give suggestions and propose improvements.
 
 Thanks for visiting and whenever around **Santos** area, [reach me](#contact) for a chat about life, the universe and everything, accompanied by a sip of **Beer** with your feet in the sand! 😁
 
@@ -75,14 +68,35 @@ Thanks for visiting and whenever around **Santos** area, [reach me](#contact) fo
 <div id="stacks">
 
   **Stacks and Tools:**
+  <br>
 
+  <table style="border:1px solid">
+    <thead>
+      <tr>
+        <th>Core</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>
+          <a href="https://github.com/lfernandogcruz?tab=repositories&q=&type=public&language=javascript&sort=">
+            <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript" />
+          </a>
+          <a href="https://github.com/lfernandogcruz?tab=repositories&q=&type=public&language=typescript&sort=">
+            <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" />
+          </a>
+          <a href="https://github.com/lfernandogcruz?tab=repositories&q=&type=public&language=python&sort=">
+            <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="python" />
+          </a>
+          <a href="https://github.com/lfernandogcruz?tab=repositories&q=&type=public&language=&sort=">
+            <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="java" />
+          </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" /> 
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3"/>
-  <br>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript" />
-  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" alt="python" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="java" />
   <br>
   <img src="https://img.shields.io/badge/React.JS-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="reactjs" />
   <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="redux" /> 
@@ -92,6 +106,7 @@ Thanks for visiting and whenever around **Santos** area, [reach me](#contact) fo
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" /> 
   <img src="  https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white" alt="sequelize" /> 
   <br>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="docker" /> 
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs" /> 
   <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge" alt="express" /> 
   <img src="https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink" alt="jwt" /> 
