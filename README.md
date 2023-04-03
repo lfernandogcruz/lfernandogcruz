@@ -123,3 +123,5 @@ Thanks for visiting and whenever around **Santos** area, [reach me](#contact) fo
 <br />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lfernandogcruz" alt="visitors-count" /> </p>
+
+**[⬆ Voltar ao topo | Back to the top](#top)**
