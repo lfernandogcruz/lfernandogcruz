@@ -73,7 +73,9 @@ Thanks for visiting and whenever around **Santos** area, [reach me](#contact) fo
   <table style="border:1px solid">
     <thead>
       <tr>
-        <th>Core</th>
+        <th align="left">
+          Core
+        </th>
       </tr>
     </thead>
     <tbody>
