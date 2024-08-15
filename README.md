@@ -19,7 +19,7 @@
 Olá, mundo!<br />
 Meu nome é **Luis Fernando**, mas pode me chamar de **LF** ou apenas de **Luis**, se preferir 😃
 
-Nasci em **Sorocaba**, cresci em **São Bernardo do Campo** e atualmente moro em **Santos**.
+Nasci em **Sorocaba**, cresci em **São Bernardo do Campo**, morei em **Santos** e estou de volta ao **ABC**.
 
 Sou formado em **Publicidade e Propaganda** pela **UMESP**, mas tive minhas experiências profissionais focadas em **Atendimento ao Público**, especialmente **Vendas** e como **Garçom/Bartender** em bares e restaurantes.
 
@@ -50,7 +50,7 @@ Obrigado pela visita e se estiver pela **Baixada Santista**, [me chame](#contact
 Hello world!<br />
 My name is **Luis Fernando**, but you can call me **LF** or just **Luis**, if you wish 😃
 
-I was born in **Sorocaba**, grew up in **São Bernardo do Campo** and currently living in **Santos**, **São Paulo** state in **Brazil**.
+I was born in **Sorocaba**, grew up in **São Bernardo do Campo**, lived in **Santos** and now I'm back to **The Paulista ABC** region, **São Paulo** state in **Brazil**.
 
 I graduated in **Advertising** by **UMESP**, but worked mostly with **Customer Services**, specially **Sales** and as a **Waiter/Bartender** in pubs and restaurants.
 
